@@ -79,7 +79,7 @@ nav {
   margin: 5px 0;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -89,7 +89,7 @@ nav {
   height: 3px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -101,7 +101,7 @@ nav {
   margin-left: 15px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -161,7 +161,7 @@ nav {
 }
 
 .nav-link:hover {
-  color: rgba(249, 105, 14, 1);
+  color: rgb(75, 156, 211, 1);
 }
 
 .toggle {
@@ -371,7 +371,7 @@ nav {
 }
 
 .scroll-down i:hover {
-  color: rgba(189, 72, 0);
+  color: rgb(75, 156, 211);
 }
 
 /* About */
@@ -419,7 +419,7 @@ hr {
   margin: 4rem 0;
   background: linear-gradient(
     to right,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
   border: 0;
@@ -478,7 +478,7 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
   -webkit-background-clip: text;
@@ -525,7 +525,7 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(75, 156, 211, 1) 0%,
     rgba(102, 51, 153, 1) 100%
   );
   -webkit-background-clip: text;
@@ -610,7 +610,7 @@ footer a {
 }
 
 .scroll-up i:hover {
-  color: rgba(189, 72, 0);
+  color: rgb(75, 156, 211);
 }
 
 .bottom-text p {
